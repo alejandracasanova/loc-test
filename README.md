@@ -1,0 +1,2 @@
+# loc-test
+testing localization
